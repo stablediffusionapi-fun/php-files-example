@@ -21,10 +21,7 @@
 </head>
 <body>
     
-<br>    
-<center><button onClick="window.location.reload();">Update</button></center>
-<br>
-
+  
 <?php
 
 $file = 'image.json';
