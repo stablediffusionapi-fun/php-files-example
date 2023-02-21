@@ -46,7 +46,7 @@ foreach ($data as $category) {
 
     $global_idx++;
     echo "<div class='image-container'>";
-    echo "<img src='$temp_dir$fileName?rnd=$r'>";
+    echo "<img src='$temp_dir$fileName'>";
     echo "<div class='image-text'>$categories ($global_idx)</div>";
     echo "</div>";
   }
